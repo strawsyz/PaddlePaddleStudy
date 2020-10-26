@@ -1,2 +1,2 @@
-# PaddlePaddleStudy
+# 百度飞桨图像分割7日打卡营总结心得
 paddle图像分割课程笔记
